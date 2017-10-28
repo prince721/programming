@@ -1,7 +1,8 @@
 #include<iostream>
 
 using namespace std;
-
+/*classic example of DIVIDE AND CONQUER STRATEGY*/
+/*recursive Binary search*/
 int binarysearch(int* a, int l, int r, int x)
 {	
    	if (r >= l)
